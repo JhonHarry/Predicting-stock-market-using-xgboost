@@ -1,3 +1,3 @@
 # Predicting-stock-market-using-xgboost
- Developing a xgboost model to predict SP500 price.
- Using hyperparameter tuning and cross validation.
+Development of an xgboost model to predict the price of the SP500. 
+I have used historical data for the last two years and adjusted the model with hyperparameter tuning and cross validation.
